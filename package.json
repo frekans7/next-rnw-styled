@@ -1,0 +1,34 @@
+{
+    "name": "next-rnw-styled",
+    "author": "@frekans7",
+    "version": "1.0",
+    "license": "MIT",
+    "scripts": {
+      "dev": "next",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "core-js": "^3.9.1",
+      "next": "^10.0.8",
+      "next-compose-plugins": "^2.2.1",
+      "next-transpile-modules": "^2.3.1",
+      "react": "^17.0.1",
+      "react-dom": "^17.0.1",
+      "react-native": "^0.63.4",
+      "react-native-web": "^0.15.0",
+      "styled-components": "^5.2.1",
+      "styled-normalize": "^8.0.7"
+    },
+    "devDependencies": {
+      "@babel/plugin-proposal-object-rest-spread": "^7.13.8",
+      "@babel/plugin-transform-runtime": "^7.13.9",
+      "@babel/preset-env": "^7.13.9",
+      "babel-plugin-module-resolver": "^4.1.0",
+      "babel-plugin-react-native-web": "^0.15.0",
+      "webpack-node-externals": "^2.5.2"
+    },
+    "resolutions": {
+      "styled-components": "^5"
+    }
+  }
