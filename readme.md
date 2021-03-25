@@ -1,4 +1,6 @@
-# Next.js and React Native for Web with styled-components
+# next-rnw-styled
+
+> Next.js and React Native for Web with styled-components
 
 https://next-rnw-styled-frekans7.vercel.app/
 
@@ -6,3 +8,7 @@ https://next-rnw-styled-frekans7.vercel.app/
 - React Native for Web
 - styled-components
 - styled-normalize (normalize.css)
+
+## License
+
+**[MIT](LICENSE)** Licensed
